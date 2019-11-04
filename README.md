@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [HUAWEI MA5680T 开局配置（一）](http://blog.shuiguoq.top/articles/2019/11/04/1572837698771.html)
+* [OSI七层](http://blog.shuiguoq.top/articles/2019/11/04/1572836333186.html)
 * [ROS常用CLI](http://blog.shuiguoq.top/articles/2019/11/02/1572669503530.html)
 * [GVRP配置（Vlan动态注册）](http://blog.shuiguoq.top/articles/2019/11/02/1572668858723.html)
 * [Hotspot热点认证](http://blog.shuiguoq.top/articles/2019/11/02/1572667632529.html)
