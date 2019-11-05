@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [GPON STICK一秒把交换机变ONT](http://blog.shuiguoq.top/articles/2019/11/05/1572924247300.html)
+* [HUAWEI MA5680T 开局配置（三）](http://blog.shuiguoq.top/articles/2019/11/04/1572854031093.html)
+* [HUAWEI MA5680T 开局配置（二）](http://blog.shuiguoq.top/articles/2019/11/04/1572853471835.html)
 * [HUAWEI MA5680T 开局配置（一）](http://blog.shuiguoq.top/articles/2019/11/04/1572837698771.html)
 * [OSI七层](http://blog.shuiguoq.top/articles/2019/11/04/1572836333186.html)
 * [ROS常用CLI](http://blog.shuiguoq.top/articles/2019/11/02/1572669503530.html)
