@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [HUAWEI_WLAN_酒店项目](http://blog.shuiguoq.top/articles/2019/11/05/1572926667893.html)
+* [Jitsi Meet 取消水印](http://blog.shuiguoq.top/articles/2019/11/05/1572924587482.html)
 * [GPON STICK一秒把交换机变ONT](http://blog.shuiguoq.top/articles/2019/11/05/1572924247300.html)
 * [HUAWEI MA5680T 开局配置（三）](http://blog.shuiguoq.top/articles/2019/11/04/1572854031093.html)
 * [HUAWEI MA5680T 开局配置（二）](http://blog.shuiguoq.top/articles/2019/11/04/1572853471835.html)
