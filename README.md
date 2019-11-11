@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://blog.shuiguoq.top/my-github-repos)
 * [网络的发展与应用](http://blog.shuiguoq.top/articles/2019/11/08/1573207995600.html)
 * [网络互联基础-TCP/IP 协议簇](http://blog.shuiguoq.top/articles/2019/11/08/1573207815134.html)
 * [网络互联基础-TCP连接的建立](http://blog.shuiguoq.top/articles/2019/11/08/1573206162209.html)
@@ -29,11 +30,11 @@
 * [Jitsi Meet 取消水印](http://blog.shuiguoq.top/articles/2019/11/05/1572924587482.html)
 * [GPON STICK一秒把交换机变ONT](http://blog.shuiguoq.top/articles/2019/11/05/1572924247300.html)
 * [HUAWEI MA5680T 开局配置（三）](http://blog.shuiguoq.top/articles/2019/11/04/1572854031093.html)
-* [HUAWEI MA5680T 开局配置（二）](http://blog.shuiguoq.top/articles/2019/11/04/1572853471835.html)
 
 ### 热门
 
 * [RRPP多实例相切环](http://blog.shuiguoq.top/articles/2019/11/02/1572666150013.html)
+* [HUAWEI MA5680T 开局配置（二）](http://blog.shuiguoq.top/articles/2019/11/04/1572853471835.html)
 * [RRPP单环单实例](http://blog.shuiguoq.top/articles/2019/11/02/1572667077848.html)
 * [Hotspot热点认证](http://blog.shuiguoq.top/articles/2019/11/02/1572667632529.html)
 * [GVRP配置（Vlan动态注册）](http://blog.shuiguoq.top/articles/2019/11/02/1572668858723.html)
