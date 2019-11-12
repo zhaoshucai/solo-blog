@@ -34,10 +34,10 @@
 ### 热门
 
 * [RRPP多实例相切环](http://blog.shuiguoq.top/articles/2019/11/02/1572666150013.html)
-* [HUAWEI MA5680T 开局配置（二）](http://blog.shuiguoq.top/articles/2019/11/04/1572853471835.html)
 * [RRPP单环单实例](http://blog.shuiguoq.top/articles/2019/11/02/1572667077848.html)
-* [Hotspot热点认证](http://blog.shuiguoq.top/articles/2019/11/02/1572667632529.html)
 * [GVRP配置（Vlan动态注册）](http://blog.shuiguoq.top/articles/2019/11/02/1572668858723.html)
+* [HUAWEI MA5680T 开局配置（二）](http://blog.shuiguoq.top/articles/2019/11/04/1572853471835.html)
+* [Hotspot热点认证](http://blog.shuiguoq.top/articles/2019/11/02/1572667632529.html)
 * [HUAWEI MA5680T 开局配置（一）](http://blog.shuiguoq.top/articles/2019/11/04/1572837698771.html)
 * [ROS常用CLI](http://blog.shuiguoq.top/articles/2019/11/02/1572669503530.html)
 * [OSI七层](http://blog.shuiguoq.top/articles/2019/11/04/1572836333186.html)
