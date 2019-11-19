@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [HUAWEI SNMP 配置](http://blog.shuiguoq.top/articles/2019/11/19/1574155596048.html)
 * [MikroTik 网桥设备配置](http://blog.shuiguoq.top/articles/2019/11/13/1573635864028.html)
 * [我在 GitHub 上的开源项目](http://blog.shuiguoq.top/my-github-repos)
 * [网络的发展与应用](http://blog.shuiguoq.top/articles/2019/11/08/1573207995600.html)
@@ -29,7 +30,6 @@
 * [HUAWEI_WLAN_笔试知识点](http://blog.shuiguoq.top/articles/2019/11/08/1573198826954.html)
 * [HUAWEI_WLAN_酒店项目](http://blog.shuiguoq.top/articles/2019/11/05/1572926667893.html)
 * [Jitsi Meet 取消水印](http://blog.shuiguoq.top/articles/2019/11/05/1572924587482.html)
-* [GPON STICK一秒把交换机变ONT](http://blog.shuiguoq.top/articles/2019/11/05/1572924247300.html)
 
 ### 热门
 
@@ -42,6 +42,7 @@
 * [OSI七层](http://blog.shuiguoq.top/articles/2019/11/04/1572836333186.html)
 * [HUAWEI MA5680T 开局配置（一）](http://blog.shuiguoq.top/articles/2019/11/04/1572837698771.html)
 * [HUAWEI MA5680T 开局配置（三）](http://blog.shuiguoq.top/articles/2019/11/04/1572854031093.html)
+* [GPON STICK一秒把交换机变ONT](http://blog.shuiguoq.top/articles/2019/11/05/1572924247300.html)
 
 
 
