@@ -33,8 +33,8 @@
 
 ### 热门
 
-* [RRPP单环单实例](http://blog.shuiguoq.top/articles/2019/11/02/1572667077848.html)
 * [GPON STICK一秒把交换机变ONT](http://blog.shuiguoq.top/articles/2019/11/05/1572924247300.html)
+* [RRPP单环单实例](http://blog.shuiguoq.top/articles/2019/11/02/1572667077848.html)
 * [RRPP多实例相切环](http://blog.shuiguoq.top/articles/2019/11/02/1572666150013.html)
 * [Hotspot热点认证](http://blog.shuiguoq.top/articles/2019/11/02/1572667632529.html)
 * [GVRP配置（Vlan动态注册）](http://blog.shuiguoq.top/articles/2019/11/02/1572668858723.html)
